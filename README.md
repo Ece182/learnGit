@@ -2,6 +2,6 @@
 
 test
 
-baska arkadas kod
+code
 
-branch degisiklik
+branch change
